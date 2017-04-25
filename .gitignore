@@ -1,0 +1,5 @@
+/ws-master/node_modules
+/ws-mocker/node_modules
+.gitignore
+.idea/inspectionProfiles/
+.idea/vcs.xml
